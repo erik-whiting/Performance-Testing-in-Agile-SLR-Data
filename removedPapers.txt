@@ -1,0 +1,186 @@
+*=============*
+*TITLE REVIEW *
+*=============*
+
+	IEEE:
+
+Fast and accurate synthesis of electronically reconfigurable annular ring monopole antennas using particle swarm optimisation and artificial bee colony algorithms
+
+Laguna Patroller: Mobile Application for Public Awareness about Violence with Global Positioning System and Image Processing
+
+A temperature monitoring system incorporating an array of precision wireless thermometers
+
+Using Raspberry Pi to Create a Solution for Accessing Educative Questionnaires From Mobile Devices
+
+Mechanical Design of Dexterous Bionic Leg with Single-DOF Planar Linkage *
+
+The SOTM environment: Developments in satellite land, sea & air mobile terminals
+
+Low-voltage ride-through enhancement with the Ï‰ and T controls of PMSG in a grid-integrated wind generation system
+
+Network Function Virtualization: State-of-the-Art and Research Challenges
+
+Systems Engineering Based Effective Approach for Executing Senior Projects for Engineering Students
+
+Digital geographic information based complex electromagnetic environment signal simulation and generation
+
+Parallel Link-based Light-Weight Leg Design for Bipedal Robots
+
+A Feasible 5G Cloud-RAN Architecture with Network Slicing Functionality
+
+A fine manipulation tweezer with embedded ultrasonic motor for assembly and gripping miniature parts
+
+Reactive Microservices in Commodity Resources
+
+Ground-level observation of terrestrial gamma-ray bursts initiated by lightning
+
+High-Speed 2 Ã— 25 kV Traction System Model and Solver for Extensive Network Simulations
+
+Tunable Photonic Radio-Frequency Filter With a Record High Out-of-Band Rejection
+
+A cyber-physical architecture for industry 4.0-based power equipments detection system
+
+Book of abstracts
+
+MD2-NFV: The case for multi-domain distributed network functions virtualization
+
+Total Ionizing Dose Effects on a Highly Integrated RF Transceiver for Small Satellite Radio Applications in Low Earth Orbit
+
+MAVEN relay operations
+
+In-Situ TID Testing and Characterization of a Highly Integrated RF Agile Transceiver for Multi-Band Radio Applications in a Radiation Environment
+
+A comparison between several Software Defined Networking controllers
+
+Sales configuration creation for complex telecommunication solutions
+
+iCAST 2017 proceedings
+
+2018 Index IEEE Robotics and Automation Letters Vol. 3
+
+Table of Contents
+
+
+	ACM:
+
+Adopting Autonomic Computing Capabilities in Existing Large-Scale Systems: An Industrial Experience Report
+
+Automated Grading of Collaborative Software Engineering Training with Cloud Distributing Scripts
+
+FSE 2016: Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering
+
+ICFP 2016: Proceedings of the 21st ACM SIGPLAN International Conference on Functional Programming
+
+Improve Student Performance Using Moderated Two-Stage Projects
+
+Multidisciplinary Groups Learning to Develop Mobile Applications from the Challenge Based Learning Methodology
+
+On the Use of Metaprogramming and Domain Specific Languages: An Experience Report in the Logistics Domain
+
+Parameterized Diamond Tiling for Stencil Computations with Chapel Parallel Iterators
+
+Research on Distributed Database Access Technology Based on .NET
+
+SA â€™15: SIGGRAPH Asia 2015 Mobile Graphics and Interactive Applications
+
+Source-Code Similarity Detection and Detection Tools Used in Academia: A Systematic Review
+
+Towards Versioning of Arbitrary RDF Data
+
+Verdict machinery: ON the need to automatically make snese of test results
+
+
+
+
+*=============*
+*ABSTRACT REVIEW *
+*=============*
+
+	IEEE:
+
+A design of a small mobile robot with a hybrid locomotion mechanism of wheels and multi-rotors
+
+A Survey on Systems Engineering Methodologies for Large Multi-Energy Cyber-Physical Systems
+
+Back to Basics - Redefining Quality Measurement for Hybrid Software Development Organizations
+
+Container Orchestration Engines: A Thorough Functional and Performance Comparison
+
+Design and Performance Analysis of a Nonstandard EPICS Fast Controller
+
+Development of information and communications technology related products: Technical expertise, infrastructures and processes
+
+Driving self-learning system based on the virtual reality
+
+Enhancing Product and Service Capability Through Scaling Agility in a Global Software Vendor Environment
+
+Green Propellant Infusion Mission (GPIM) space vehicle integration and test status
+
+How to Make Business Intelligence Agile: The Agile BI Actions Catalog
+
+Implementation of a software application for comprehensive monitoring of children and young patients under closed regimes in Argentina (SISP)
+
+OSI Standards and the Top Fallacy of Distributed Computing
+
+Refinement and Resolution of Just-in-Time Requirements in Open Source Software: A Case Study
+
+Research on visual navigation algorithm of AGV used in the small agile warehouse
+
+SecFT-SDN: Securing the Flow-Table for Software-Defined Network
+
+Smart Audio Sensors in the Internet of Things Edge for Anomaly Detection
+
+Smart City IoT: Smart Architectural Solution for Networking, Congestion and Heterogeneity
+
+The Increasing Importance of Utilizing Non-intrusive Board Test Technologies for Printed Circuit Board Defect Coverage
+
+Wireless SDN architecture Testbed to support IP Multimedia Subsystem
+
+
+	ACM:
+
+A Global View on the Hard Skills and Testing Tools in Software Testing
+
+Have Your Data and Query It Too: From Key-Value Caching to Big Data Management
+
+
+
+
+*=============*
+* ARTICLE REVIEW *
+*=============*
+
+
+	IEEE:
+A Global View on the Hard Skills and Testing Tools in Software Testing
+
+A parallel computing model for container terminal logistics
+
+Development of an information platform for observation of seismic events in Chile using RAD methodology
+
+LTE-based MCPTT Architecture for Next Generation Railway Dispatching Communication System
+
+On the RESTful Web Services for Managing Application Virtualization Environments
+
+Performance evaluation and improvement in cloud computing environment
+
+Set-based Design in Agile Development: Developing a Banana Sorting Module - A Practical Approach
+
+Systematic mapping study on MBT: tools and models
+
+The effect of software programmers' personality on programming performance
+
+	ACM:
+
+Beyond Continuous Delivery: An Empirical Investigation of Continuous Deployment Challenges
+
+In-Memory Integration of Existing Software Components for Parallel Adaptive Unstructured Mesh Workflows
+
+Key Factors in Scaling up Agile Team in Matrix Organization
+
+Managing Quality Assurance Challenges of DevOps through Analytics
+
+
+
+
+
